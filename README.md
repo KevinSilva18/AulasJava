@@ -1,2 +1,2 @@
 # AulasJava
-O intuito das AulasJava é trabalhar a linguagem de programação no dia a dia
+O intuito das AulasJava é trabalhar a linguagem de programação java no dia a dia
